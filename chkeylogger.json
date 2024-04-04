@@ -1,0 +1,24 @@
+[{"Pressed": "'h'"}, {"Held": "'h'"}, {"Released": "'h'"}, {"Pressed": "'e'"}, {"Held": "'e'"}, {"Released": "'e'"},
+  {"Pressed": "'l'"}, {"Held": "'l'"}, {"Released": "'l'"}, {"Pressed": "'l'"}, {"Held": "'l'"}, {"Released": "'l'"},
+  {"Pressed": "'o'"}, {"Held": "'o'"}, {"Released": "'o'"}, {"Pressed": "Key.space"}, {"Held": "Key.space"},
+  {"Released": "Key.space"}, {"Pressed": "'b'"}, {"Held": "'b'"}, {"Released": "'b'"}, {"Pressed": "'e'"},
+  {"Held": "'e'"}, {"Released": "'e'"}, {"Pressed": "'a'"}, {"Held": "'a'"}, {"Released": "'a'"}, {"Pressed": "'u'"},
+  {"Held": "'u'"}, {"Released": "'u'"}, {"Pressed": "'t'"}, {"Held": "'t'"}, {"Released": "'t'"}, {"Pressed": "Key.backspace"},
+  {"Held": "Key.backspace"}, {"Released": "Key.backspace"}, {"Pressed": "Key.backspace"}, {"Held": "Key.backspace"},
+  {"Released": "Key.backspace"}, {"Pressed": "Key.backspace"}, {"Held": "Key.backspace"}, {"Released": "Key.backspace"},
+  {"Pressed": "Key.backspace"}, {"Held": "Key.backspace"}, {"Released": "Key.backspace"}, {"Pressed": "Key.backspace"},
+  {"Held": "Key.backspace"}, {"Released": "Key.backspace"}, {"Pressed": "Key.backspace"}, {"Held": "Key.backspace"},
+  {"Released": "Key.backspace"}, {"Pressed": "'e'"}, {"Held": "'e'"}, {"Released": "'e'"}, {"Pressed": "'n'"},
+  {"Held": "'n'"}, {"Released": "'n'"}, {"Pressed": "'g'"}, {"Held": "'g'"}, {"Released": "'g'"}, {"Pressed": "'l'"},
+  {"Held": "'l'"}, {"Released": "'l'"}, {"Pressed": "'a'"}, {"Held": "'a'"}, {"Released": "'a'"}, {"Pressed": "'n'"},
+  {"Held": "'n'"}, {"Released": "'n'"}, {"Pressed": "'d'"}, {"Held": "'d'"}, {"Released": "'d'"}, {"Pressed": "'\\\\'"},
+  {"Held": "'\\\\'"}, {"Held": "Key.enter"}, {"Released": "'\\\\'"}, {"Released": "Key.enter"}, {"Pressed": "Key.backspace"},
+  {"Held": "Key.backspace"}, {"Released": "Key.backspace"}, {"Pressed": "Key.enter"}, {"Held": "Key.enter"},
+  {"Released": "Key.enter"}, {"Pressed": "Key.backspace"}, {"Held": "Key.backspace"}, {"Released": "Key.backspace"}]
+
+
+
+
+
+
+
